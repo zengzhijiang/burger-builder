@@ -1,3 +1,6 @@
+# burger-builder
+This is a React application for practice, which allows users to custimize a burger, calculate the price, and place an order. 
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
